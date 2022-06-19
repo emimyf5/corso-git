@@ -1,6 +1,5 @@
 
 hello
-<<<<<<< HEAD
 
 =======
 added new line on de
