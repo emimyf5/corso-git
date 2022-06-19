@@ -1,4 +1,8 @@
 
 hello
-added new line in fix
+<<<<<<< HEAD
 
+=======
+added new line on de
+added new line on dev
+>>>>>>> dev
